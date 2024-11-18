@@ -41,7 +41,7 @@ This project demonstrates how to set up a Kafka cluster using KRaft mode (withou
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/evanmathew/Apache-Kafka-Kraft-and-Apache-Druid.git](https://github.com/evanmathew/Apache-Kafka-Kraft-and-Apache-Druid.git
+git clone https://github.com/evanmathew/Apache-Kafka-Kraft-and-Apache-Druid.git
 cd Apache-Kafka-Kraft-and-Apache-Druid
 ```
 
